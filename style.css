@@ -37,12 +37,12 @@ table td{
     background-color: #454546;
     color: #fff;
     font-size: 1em;
-    /*transition: all 500ms ease-in-out;*/
+    transition: all 500ms ease-in-out;
 }
-/*
+
 .btn:hover{
     background-color: #6d6d6d;
-}*/
+}
 
 .ac{
     background-color: #1b7269;
@@ -69,7 +69,7 @@ table td{
 }
 
 .result{
-    height: 100px;
+    height: 80px;
     color: #fff;
     text-align: right;
     font-size: 2em;
